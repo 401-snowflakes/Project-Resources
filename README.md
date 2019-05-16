@@ -1,2 +1,2 @@
-# Project-Resources
+# project-resources
 Project organizational documents and resources
