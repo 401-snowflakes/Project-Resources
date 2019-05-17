@@ -5,11 +5,18 @@ This is a joint final project between the 401 Javascript and 401 ASP.Net classes
 ## Project Name: Curve
 ---
 #### Goal
+_Pending_
+
+---
+
+#### Notes from Client (Brooke)
+_Pending_
 
 ---
 <h2 align="center">Team Hierarchy</h2>
-
-![Team Organzation](./assets/teams.jpg)
+<p align="center">
+<img src="./assets/teams.jpg" />
+</p>
 #### Integrations Team
 * Team Leader: Pending
 * [Group Agreement]() - Link Pending
