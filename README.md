@@ -17,6 +17,7 @@ _Pending_
 <p align="center">
 <img src="./assets/teams.jpg" />
 </p>
+
 #### Integrations Team
 * Team Leader: Pending
 * [Group Agreement]() - Link Pending
