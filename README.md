@@ -5,14 +5,29 @@ This is a joint final project between the 401 Javascript and 401 ASP.Net classes
 ## Project Name: Curve
 ---
 #### Goal
-_Pending_
+Recreate the Medium **_Snowflake_** app for Code Fellows employee and student core competancy evaluations. Adapt the core competancies used in the careers curriculum as metrics. The front end should use React, and Gatsby JS while the backend should serve the required data to the front end using GraphQL while providing for a variety of different roles and permissions.
 
 ---
 
 #### Notes from Client (Brooke)
+_Conversation 5/16/19_: All of the sub competancies and main competancies will have a maximum score of 4. The snowflake should graphically show ALL of the main competancies and subcompetancies. Each primary compentancy will have a different color (or shade). Use the [Engineering Competancy Matrix Scoring Guide](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0) as a guide for the requirements to move to the next level in score.
+
+---
+
+#### Project Descriptions
+_Pending_
+
+#### Roles and Responsibiities
+_Pending_
+
+#### GitHub Flow
+_Pending_
+
+#### Daily Schedule
 _Pending_
 
 ---
+
 <h2 align="center">Team Hierarchy</h2>
 <p align="center">
 <img src="./assets/teams.jpg" />
@@ -51,6 +66,8 @@ _Pending_
 * Gatsby JS
 * D3
 
+### Meeting Notes
+[Pre-Project Team Meeting](./meeting-notes/pre-project-team-meeting-051619.pdf)
 ### Resources
 **General Project References**
   * [Deployed Site To Be Emulated](https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Staff%20Engineer)
