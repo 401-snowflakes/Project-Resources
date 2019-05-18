@@ -35,8 +35,8 @@ _Pending_
 
 #### Integrations Team
 * Team Leader: Pending
-* [Group Agreement]() - Link Pending
-* [User Stories]() - Link Pending
+* [Group Agreement](https://docs.google.com/document/d/1RY_Ob5EYsAonB_acwMkEw99AdHmZTKBx20fd3x4WGxQ/edit?usp=sharing)
+* [User Stories](https://docs.google.com/document/d/104WMsb7SM3s68rgwwktQSdUjv_HaSqFyRajnlSDvFqo/edit?usp=sharing)
 #### UI/UX - Javascript
 * Integrations Team Point of Contact: Chris
 * Team Leader: Pending
