@@ -157,7 +157,7 @@ _Pending_
 
 <h2 align="center">Team Hierarchy</h2>
 <p align="center">
-<img src="./assets/teams.jpg" />
+<img src="./assets/teams-01.jpg" />
 </p>
 
 #### 
