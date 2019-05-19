@@ -11,12 +11,30 @@ This is a joint final project between the 401 Javascript and 401 ASP.Net classes
 Final logo approval pending
 </p>
 
-#### Goal
-Recreate the Medium **_Snowflake_** app for Code Fellows employee and student core competancy evaluations. Adapt the core competancies used in the careers curriculum as metrics. The front end should use React, and Gatsby JS while the backend should serve the required data to the front end using GraphQL while providing for a variety of different roles and permissions.
-
 ---
 
-#### Table of Contents
+#### Goal
+Recreate the Medium **_Snowflake_** app for Code Fellows employee and student core competancy evaluations. Adapt the core competancies used in the careers curriculum as metrics. The front end should use React, and Gatsby JS while the backend should serve the required data to the front end using GraphQL while providing for a variety of different roles and permissions.
+The application will heavily reference the Medium's Snowflake [Original Source Code](https://github.com/CodeFellows-Curve/snowflake).
+
+<!-- --- -->
+
+<!-- #### Table of Contents
+* [Project Board]()
+* [Roles and Responsibilities]()
+* [GitHub Workflow]()
+* [Daily Schedule]()
+* [Team Heirarchy]()
+  * [Integrations Team Resources]()
+  * [UI/UX Team Resources]()
+  * [Backend Integration]()
+  * [Data]()
+  * [Auth]()
+* [Meetings]()
+  * [Meeting Notes]()
+  * [Meeting Agendas]()
+* [Project References]() -->
+
 ---
 
 #### Notes from Client (Brooke)
@@ -25,6 +43,9 @@ _Conversation 5/16/19_: All of the sub competancies and main competancies will h
 ---
 
 #### Project Description
+_Pending_
+
+#### Jira Project Board
 _Pending_
 
 #### Roles and Responsibiities
@@ -58,7 +79,7 @@ _Pending_
 #### Integrations Team
 * **Team Leader** Erin Trainor
 * [Group Agreement](https://docs.google.com/document/d/1RY_Ob5EYsAonB_acwMkEw99AdHmZTKBx20fd3x4WGxQ/edit?usp=sharing)
-* [User Stories]() - Link Pending
+* [User Stories](https://docs.google.com/document/d/104WMsb7SM3s68rgwwktQSdUjv_HaSqFyRajnlSDvFqo/edit?usp=sharing)
 * [Team Biographies]() - Link Pending
 
 #### UI/UX - Javascript
@@ -104,17 +125,17 @@ _Pending_
 
 ### Meeting Agendas
 [Monday - May 20, 2019 - Scrum of Scrums]() - Link Pending
-[Tuesday - May 21, 2019 - Scrum of Scrums]() - Link Pending
+<!-- [Tuesday - May 21, 2019 - Scrum of Scrums]() - Link Pending
 [Wednesday - May 22, 2019 - Scrum of Scrums]() - Link Pending
 [Thursday - May 23, 2019 - Scrum of Scrums]() - Link Pending
-[Friday - May 24, 2019 - Presentation Prep]() - Link Pending
+[Friday - May 24, 2019 - Presentation Prep]() - Link Pending -->
 
 ### Meeting Notes
 [Pre-Project Team Meeting](./meeting-notes/pre-project-team-meeting-051619.pdf)
 [Monday - May 20, 2019 - Scrum of Scrums]() - Link Pending
-[Tuesday - May 21, 2019 - Scrum of Scrums]() - Link Pending
+<!-- [Tuesday - May 21, 2019 - Scrum of Scrums]() - Link Pending
 [Wednesday - May 22, 2019 - Scrum of Scrums]() - Link Pending
-[Thursday - May 23, 2019 - Scrum of Scrums]() - Link Pending
+[Thursday - May 23, 2019 - Scrum of Scrums]() - Link Pending -->
 
 ---
 
