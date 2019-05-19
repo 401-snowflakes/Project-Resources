@@ -76,7 +76,9 @@ _Pending_
 <p align="center">
 <img src="./assets/teams.jpg" />
 </p>
+
 #### Integrations Team
+
 * **Team Leader** Erin Trainor
 * [Group Agreement](https://docs.google.com/document/d/1RY_Ob5EYsAonB_acwMkEw99AdHmZTKBx20fd3x4WGxQ/edit?usp=sharing)
 * [User Stories](https://docs.google.com/document/d/104WMsb7SM3s68rgwwktQSdUjv_HaSqFyRajnlSDvFqo/edit?usp=sharing)
