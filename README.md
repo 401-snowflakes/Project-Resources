@@ -77,51 +77,67 @@ _Pending_
 <img src="./assets/teams.jpg" />
 </p>
 
-#### Integrations Team
+#### 
 
-* **Team Leader** Erin Trainor
-* [Group Agreement](https://docs.google.com/document/d/1RY_Ob5EYsAonB_acwMkEw99AdHmZTKBx20fd3x4WGxQ/edit?usp=sharing)
-* [User Stories](https://docs.google.com/document/d/104WMsb7SM3s68rgwwktQSdUjv_HaSqFyRajnlSDvFqo/edit?usp=sharing)
-* [Team Biographies]() - Link Pending
+<details>
+  <summary>Integrations Team</summary><br>
+  <span><b>&nbsp; &nbsp; Team Leader: </b></span><span>Erin Trainor</span><br><br>
+  <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
+  <a href="https://docs.google.com/document/d/1RY_Ob5EYsAonB_acwMkEw99AdHmZTKBx20fd3x4WGxQ/edit?usp=sharing">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
+  <a href="https://docs.google.com/document/d/104WMsb7SM3s68rgwwktQSdUjv_HaSqFyRajnlSDvFqo/edit?usp=sharing">&nbsp; &nbsp; &#5852; User Stories</a><br><br>
+</details>
 
-#### UI/UX - Javascript
-* **Integrations Team Point of Contact**: Chris Merritt
-* **Team Leader** Vanessa Wei
-* [Group Agreement](https://docs.google.com/document/d/1OPUpRXWkk1Dx0BmRjouBDBCOGXqrlE3Eh6Lt7vcCqz8/edit)
-* [User Stories](https://docs.google.com/document/d/1-sHkbBGCe7hSizhoMnbMEGOERKmqodXlm7vNn_8pXeo/edit?usp=sharing)
-* [Team Biographies]() - Link Pending
+<details>
+  <summary>UI/UX - Javascript</summary><br>
+  <span><b>&nbsp; &nbsp; Integrations Team Point of Contact: </b></span><span>Chris Merritt</span><br>
+  <span><b>&nbsp; &nbsp; Team Leader: </b></span><span>Vanessa Wei</span><br><br>
+  <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
+  <a href="https://docs.google.com/document/d/1OPUpRXWkk1Dx0BmRjouBDBCOGXqrlE3Eh6Lt7vcCqz8/edit">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
+  <a href="https://docs.google.com/document/d/1-sHkbBGCe7hSizhoMnbMEGOERKmqodXlm7vNn_8pXeo/edit?usp=sharing">&nbsp; &nbsp; &#5852; User Stories</a><br><br>
+</details>
 
-#### Backend Interface - Javascript
-* **Integrations Team Point of Contact**: Greg Dukes
-* **Team Leader** Spencer Hirata
-* [Group Agreement](https://docs.google.com/document/d/1zHWas520gGabNYsYsWhnB7dGbvR6hwNa1sw3Oxc140w/edit?usp=sharing)
-* [User Stories](https://docs.google.com/document/d/1JnWA1EmyUWowkoHwlc4e0SlBN4xHoipjro0CWolIrOg/edit)
-* [Team Biographies]() - Link Pending
+<details>
+  <summary>Backend Interface - Javascript</summary><br>
+  <span><b>&nbsp; &nbsp; Integrations Team Point of Contact: </b></span><span>Greg Dukes</span><br>
+  <span><b>&nbsp; &nbsp; Team Leader: </b></span><span>Spencer Hirata</span><br><br>
+  <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
+  <a href="https://docs.google.com/document/d/1zHWas520gGabNYsYsWhnB7dGbvR6hwNa1sw3Oxc140w/edit?usp=sharing">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
+  <a href="https://docs.google.com/document/d/1JnWA1EmyUWowkoHwlc4e0SlBN4xHoipjro0CWolIrOg/edit">&nbsp; &nbsp; &#5852; User Stories</a></br><br>
+</details>
 
-#### Data - C#
-* **Integrations Team Point of Contact**: Andrew Curtis
-* **Team Leader** Dan Logerstedt
-* [Group Agreement](https://docs.google.com/document/d/14jUwk_TpGIYohoteQID2KzxtCYH_F5fuV8_K4IrYTjw/edit?usp=sharing)
-* [User Stories](https://docs.google.com/document/d/1AEAnTw2npca0iKJMauaP610BuPSltbU-WWCmumHbyzI/edit?usp=sharing)
-* [Database Schemas](https://docs.google.com/document/d/1ALGz_n_w2ro7ABXJRM1wrGTiiZpAuS7h_CFbI77kDxw/edit?usp=sharing)
-* [Team Biographies]() - Link Pending
+<details>
+  <summary>Data - C#</summary><br>
+  <span><b>&nbsp; &nbsp; Integrations Team Point of Contact</b></span><span>Andrew Curtis</span><br>
+  <span><b>&nbsp; &nbsp; Team Leader</b></span><span>Dan Logerstedt</span><br><br>
+  <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
+  <a href="https://docs.google.com/document/d/14jUwk_TpGIYohoteQID2KzxtCYH_F5fuV8_K4IrYTjw/edit?usp=sharing">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
+  <a href="https://docs.google.com/document/d/1AEAnTw2npca0iKJMauaP610BuPSltbU-WWCmumHbyzI/edit?usp=sharing">&nbsp; &nbsp; &#5852; User Stories</a></br>
+  <a href="https://docs.google.com/document/d/1ALGz_n_w2ro7ABXJRM1wrGTiiZpAuS7h_CFbI77kDxw/edit?usp=sharing">&nbsp; &nbsp; &#5852; Database Schemas</a></br><br>
+</details>
 
-#### Auth - C#
-* **Integrations Team Point of Contact**: Jason Burns
-* **Team Leader** Tanner Percival
-* [Group Agreement](https://docs.google.com/document/d/1Fg3xK7r6AbVOKgL1zoLrj0qWStzJTY22sHFbpZYmt40/edit?usp=sharing)
-* [User Stories](https://docs.google.com/document/d/16IYEQbwUyXER-93ScNRK_hSLknBF_-xpLE8MxxJ7HzU/edit)
-* [Team Biographies]() - Link Pending
 
-### Languages Used
-* JavaScript
-* C#
+<details>
+  <summary>Auth - C#</summary><br>
+  <span><b>&nbsp; &nbsp; Integrations Team Point of Contact</b></span><span>Jason Burns</span><br>
+  <span><b>&nbsp; &nbsp; Team Leader</b></span><span>Tanner Percival</span><br>
+  <p>&nbsp; &nbsp; &#5852; Team Biographies - Link Pending</p></br>
+  <a href="https://docs.google.com/document/d/1Fg3xK7r6AbVOKgL1zoLrj0qWStzJTY22sHFbpZYmt40/edit?usp=sharing">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
+  <a href="https://docs.google.com/document/d/16IYEQbwUyXER-93ScNRK_hSLknBF_-xpLE8MxxJ7HzU/edit">&nbsp; &nbsp; &#5852; User Stories</a></br><br>
+</details>
 
-### Tools Used
-* GraphQL
-* Gatsby JS
-* D3
-* OAuth or Auth0
+<details>
+  <summary>Languages Used</summary>
+  <p>&nbsp; &nbsp; JavaScript</p>
+  <p>&nbsp; &nbsp; C#</p>
+</details>
+
+<details>
+  <summary>Tools Used</summary>
+  <p>&nbsp; &nbsp; GraphQL</p>
+  <p>&nbsp; &nbsp; Gatsby JS</p>
+  <p>&nbsp; &nbsp; D3</p>
+  <p>&nbsp; &nbsp; OAuth or Auth0</p>
+</details>
 
 ---
 
@@ -140,38 +156,53 @@ _Pending_
 [Thursday - May 23, 2019 - Scrum of Scrums]() - Link Pending -->
 
 ---
-
 ### Resources
-**General Project References**
-  * [Deployed Site To Be Emulated](https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Staff%20Engineer)
-  * [Source Code of Deployed Site](https://github.com/Medium/snowflake)
-  * [Code Fellows Core Competancies to Be Included in Modified Application](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies)
-  * [Engineering Competancy Matrix Scoring Guide](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0)
-  * [Project Team Google Doc](https://docs.google.com/spreadsheets/d/1CzgWm-3V0Jk-84M-uYPgu6QCUdVDnjP8DKf4bb2aTeM/edit?usp=sharing)
+<details>
+  <summary><b>General Project References</b></summary>
+  
+  <a href="https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Staff%20Engineer">&#5852; Deployed Site To Be Emulated</a></br>
+  <a href="https://github.com/Medium/snowflake">&#5852; Source Code of Deployed Site</a></br>
+  <a href="https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies">&#5852; Code Fellows Core Competancies to Be Included in Modified Application</a></br>
+  <a href="https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0">&#5852; Engineering Competancy Matrix Scoring Guide</a></br>
+  <a href="https://docs.google.com/spreadsheets/d/1CzgWm-3V0Jk-84M-uYPgu6QCUdVDnjP8DKf4bb2aTeM/edit?usp=sharing">&#5852; Project Team Google Doc</a></br>
 
-**GraphQL Resources (.NET)**
-  * [GraphQL .NET](https://graphql-dotnet.github.io/docs/getting-started/introduction/)
-  * [Building GraphQL APIs with ASP.NET Core](https://medium.com/volosoft/building-graphql-apis-with-asp-net-core-419b32a5305b)
+</details>
 
-**GraphQL Resources (JavaScript)**
-  * [GraphQL Docs for JavaScript](https://graphql.org/code/#javascript)
-  * [Full Stack Tutorial](https://www.howtographql.com/)
-  * [Best resources to learn React & GraphQL](https://dev.to/robmatyszewski/best-resources-to-learn-react-graphql-5dkk)
+<details>
+  <summary><b>GraphQL Resources (.NET)</b></summary>
+  <a href="https://graphql-dotnet.github.io/docs/getting-started/introduction/">&#5852; GraphQL .NET</a></br>
+  <a href="https://medium.com/volosoft/building-graphql-apis-with-asp-net-core-419b32a5305b">&#5852; Building GraphQL APIs with ASP.NET Core</a></br>
+</details>
 
-**D3 Resources (Javascript)**
-  * [D3 Main Site](https://d3js.org/)
-  * [Learn D3 in 5 Minutes](https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
-  * [Free D3 Tutorials by Scrimba](https://scrimba.com/g/gd3js)
+<details>
+  <summary><b>GraphQL Resources (JavaScript)</b></summary>
+  <a href="https://graphql.org/code/#javascript">&#5852; GraphQL Docs for JavaScript</a></br>
+  <a href="https://www.howtographql.com/">&#5852; Full Stack Tutorial</a></br>
+  <a href="https://dev.to/robmatyszewski/best-resources-to-learn-react-graphql-5dkk">&#5852; Best resources to learn React & GraphQL</a></br>
+</details>
 
-**Gatsby JS Resources (JavaScript)**
-  * [Gatsby JS Website](https://www.gatsbyjs.org/)
-  * [Official Gatsby JS Tutorial](https://www.gatsbyjs.org/tutorial/)
-  * [Querying Data in Gatsby JS with GraphQL](https://www.gatsbyjs.org/docs/querying-with-graphql/)
-  * [Gatsby Video Tutorial - 1 Hour](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
-  * [Gatsby Video Bootcamp Tutorial - 4 Hours](https://www.youtube.com/watch?v=8t0vNu2fCCM)
+<details>
+  <summary><b>D3 Resources (Javascript)</b></summary>
+  <a href="https://d3js.org/">&#5852; D3 Main Site</a></br>
+  <a href="https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725">&#5852; Learn D3 in 5 Minutes</a></br>
+  <a href="https://scrimba.com/g/gd3js">&#5852; Free D3 Tutorials by Scrimba</a></br>
+</details>
 
-**Auth0 Resources**
-  * [Securing Gatsby with Auth0](https://auth0.com/blog/securing-gatsby-with-auth0/)
+<details>
+  <summary><b>Gatsby JS Resources (JavaScript)</b></summary>
+  <a href="https://www.gatsbyjs.org/">&#5852; Gatsby JS Website</a></br>
+  <a href="https://www.gatsbyjs.org/tutorial/">&#5852; Official Gatsby JS Tutorial</a></br>
+  <a href="https://www.gatsbyjs.org/docs/querying-with-graphql/">&#5852; Querying Data in Gatsby JS with GraphQL</a></br>
+  <a href="https://www.youtube.com/watch?v=6YhqQ2ZW1sc">&#5852; Gatsby Video Tutorial - 1 Hour</a></br>
+  <a href="https://www.youtube.com/watch?v=8t0vNu2fCCM">&#5852; Gatsby Video Bootcamp Tutorial - 4 Hours</a></br>
+</details>
 
-**Design Resources**
-  * [Code Fellows Style Guide]() - Link Pending
+<details>
+  <summary><b>Auth0 Resources</b></summary>
+  <a href="https://auth0.com/blog/securing-gatsby-with-auth0/">&#5852; Securing Gatsby with Auth0</a></br>
+</details>
+
+<details>
+  <summary><b>Design Resources</b></summary>
+  <p>&#5852; Code Fellows Style Guide - Link Pending</p></br>
+</details>
