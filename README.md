@@ -56,21 +56,104 @@ _Pending_
 
  ---
 
-#### Daily Schedule
-[Detailed Description with Agendas](./meetings/MEETING-SCHEDULE.md)
-###### 8:45-9:15 - Check in meeting
-* **Attendees:** PM, Integrations Team, Lead TAs
-###### 9:15 - Big Scrum Meeting - Approximately 30 min
-* **Attendees:** Clients, Lead TAs, PM, Integrations Team, Team Leaders
-###### 9:45 - Team Discussion (5-10 minutes)
-* **Attendees:** Integrations Team Representative, Team Members
-###### 11:00 - 12:00 - Team Scrum Meetings (15 minutes per team)
-* **Attendees:** Clients, All TAs, PM, Integrations Team Representative, Team Members
-###### 16:00-17:00 - Team Scrum Meetings (15 minutes per team)
-* **Attendees:** Clients, All TAs, PM, Integrations Team Representative, Team Members
-###### 17:00 - Integrations Team Daily Retrospective Meeting
-* **Attendees:** PM, Integrations Team
----
+<h2 style="padding:5px;border-style:solid;border-width:1px;" >Daily Schedule</h2>
+
+<details>
+  <summary style="padding:5px;border-style:solid;border-width:1px;" >8:45 -9:15 - Check in meeting</summary>
+  <p><b>Attendees</b></p>
+    <ul>
+      <li>PM</li>
+      <li>Integrations Team</li>
+      <li>Lead TAs</li>
+    </ul>
+  <p><b>Agenda</b></p>
+    <ul>
+      <li>Plan for the day</li>
+      <li>Big picture tasks for each group</li>
+      <li>Any additional coordination times between smaller groups?</li>
+      <li>Review planned agenda for the Big Scrum Meeting</li>
+    </ul>
+</details>
+
+<details>
+  <summary style="padding:5px;border-style:solid;border-width:1px;" >9:15 - Big Scrum Meeting - Approximately 30 min</summary>
+  <p><b>Attendees</b></p>
+    <ul>
+      <li>Clients</li>
+      <li>Lead TAs</li>
+      <li>PM</li>
+      <li>Integrations Team</li>
+      <li>Team Leaders</li>
+    </ul>
+  <p><b>Agenda</b></p>
+    <ul>
+      <li>What each group will be working on</li>
+      <li>Planned inter-team coordination meetings (if any)</li>
+      <li>Clarification questions asked of the clients</li>
+      <li>Identify any problems where TA help needed</li>
+    </ul>
+</details>
+
+<details>
+  <summary style="padding:5px;border-style:solid;border-width:1px;" >9:45 - Team Discussion (5-10 minutes)</summary>
+  <p><b>Attendees</b></p>
+    <ul>
+      <li>Integrations Team Representative</li>
+      <li>Team Members</li>
+    </ul>
+  <p><b>Agenda</b></p>
+    <ul>
+      <li>Team leader and Integrations team representative communicates team specific information from Big Scrum meeting to team.</li>
+    </ul>
+</details>
+
+<details>
+  <summary style="padding:5px;border-style:solid;border-width:1px;" >11:00 - 12:00 - Team Scrum Meetings (15 minutes per team)</summary>
+  <p><b>Attendees</b></p>
+  <ul>
+    <li>Clients</li>
+    <li>All TAs</li>
+    <li>PM</li>
+    <li>Integrations Team Representative</li>
+    <li>Team Members</li>
+  </ul>
+</details>
+
+<details>
+  <summary style="padding:5px;border-style:solid;border-width:1px;" >16:00-17:00 - Team Scrum Meetings (15 minutes per team)</summary>
+  <p><b>Attendees</b></p>
+    <ul>
+      <li>Clients</li>
+      <li>All TAs</li>
+      <li>PM</li>
+      <li>Integrations Team Representative</li>
+      <li>Team Members</li>
+    </ul>
+  <p><b>Agenda</b></p>
+    <ul>
+      <li>How did the day go</li>
+      <li>What was accomplished</li>
+      <li>Plan for the next day</li>
+    </ul>
+</details>
+
+<details>
+  <summary style="padding:5px;border-style:solid;border-width:1px;" >17:00 - Integrations Team Daily Retrospective Meeting</summary>
+  <p><b>Attendees</b></p>
+    <ul>
+      <li>PM</li>
+      <li>Integrations Team</li>
+    </ul>
+  <p><b>Agenda</b></p>
+    <ul>
+      <li>What was accomplished today</li>
+      <li>New tasks for the following day</li>
+      <li>Things to discuss/ask at next day big scrum meeting</li>
+      <li>Problems were additional resources are needed.</li>
+    </ul>
+</details>
+
+***
 
 <h2 align="center">Team Hierarchy</h2>
 <p align="center">
