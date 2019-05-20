@@ -286,7 +286,7 @@ _Pending_ -->
 ---
 
 ### Meeting Agendas
-[Monday - May 20, 2019 - Scrum of Scrums]() - Link Pending
+[Monday - May 20, 2019 - Scrum of Scrums](https://docs.google.com/document/d/1j5msQK3yvMYcWajPy490xPcdjOC0vuRDdcfY5PRCoec/edit?usp=sharing)
 <!-- [Tuesday - May 21, 2019 - Scrum of Scrums]() - Link Pending
 [Wednesday - May 22, 2019 - Scrum of Scrums]() - Link Pending
 [Thursday - May 23, 2019 - Scrum of Scrums]() - Link Pending
@@ -294,7 +294,7 @@ _Pending_ -->
 
 ### Meeting Notes
 [Pre-Project Team Meeting](./meeting-notes/pre-project-team-meeting-051619.pdf)
-[Monday - May 20, 2019 - Scrum of Scrums]() - Link Pending
+<!-- [Monday - May 20, 2019 - Scrum of Scrums]() - Link Pending -->
 <!-- [Tuesday - May 21, 2019 - Scrum of Scrums]() - Link Pending
 [Wednesday - May 22, 2019 - Scrum of Scrums]() - Link Pending
 [Thursday - May 23, 2019 - Scrum of Scrums]() - Link Pending -->
