@@ -117,15 +117,24 @@ _Pending_ -->
 
  ---
 
-<h2><b>Daily Schedule</b></h2>
+<h2><b>Daily Meeting Schedule</b></h2>
 
 <details>
-  <summary><b>8:45 -9:15 - Check in meeting</b></summary>
+  <summary><b>9:00 - 10:00 - Team Scrum Meetings (15 minutes per team)</b></summary>
+  <p><b>Attendees</b></p>
+  <ul>
+    <li>PM</li>
+    <li>Lead TAs</li>
+    <li>Integrations Team Representative</li>
+    <li>Team Members</li>
+  </ul>
+</details>
+<details>
+  <summary><b>10:00 - 10:30 - Check in meeting</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>PM</li>
       <li>Integrations Team</li>
-      <li>Lead TAs</li>
     </ul>
   <p><b>Agenda</b></p>
     <ul>
@@ -135,9 +144,8 @@ _Pending_ -->
       <li>Review planned agenda for the Big Scrum Meeting</li>
     </ul>
 </details>
-
 <details>
-  <summary><b>9:15 - Big Scrum Meeting - Approximately 30 min</b></summary>
+  <summary><b>11:00 - Big Scrum Meeting - Approximately 30 min</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>Clients</li>
@@ -156,7 +164,7 @@ _Pending_ -->
 </details>
 
 <details>
-  <summary><b>9:45 - Team Discussion (5-10 minutes)</b></summary>
+  <summary><b>11:30 - Team Discussion (5-10 minutes)</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>Integrations Team Representative</li>
@@ -167,19 +175,6 @@ _Pending_ -->
       <li>Team leader and Integrations team representative communicates team specific information from Big Scrum meeting to team.</li>
     </ul>
 </details>
-
-<details>
-  <summary><b>11:00 - 12:00 - Team Scrum Meetings (15 minutes per team)</b></summary>
-  <p><b>Attendees</b></p>
-  <ul>
-    <li>Clients</li>
-    <li>All TAs</li>
-    <li>PM</li>
-    <li>Integrations Team Representative</li>
-    <li>Team Members</li>
-  </ul>
-</details>
-
 <details>
   <summary><b>16:00-17:00 - Team Scrum Meetings (15 minutes per team)</b></summary>
   <p><b>Attendees</b></p>
@@ -197,9 +192,25 @@ _Pending_ -->
       <li>Plan for the next day</li>
     </ul>
 </details>
-
 <details>
-  <summary><b>17:00 - Integrations Team Daily Retrospective Meeting</b></summary>
+  <summary><b>17:00 - Demo Meeting (15-20 min)</b></summary>
+  <p><b>Attendees</b></p>
+    <ul>
+      <li>Clients</li>
+      <li>Lead TAs</li>
+      <li>PM</li>
+      <li>Integrations Team</li>
+      <li>Team Leaders</li>
+    </ul>
+  <p><b>Agenda</b></p>
+    <ul>
+      <li>What was accomplished today</li>
+      <li>Demo</li>
+      <li>Client Feedback</li>
+    </ul>
+</details>
+<details>
+  <summary><b>17:30 - Integrations Team Daily Retrospective Meeting</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>PM</li>
@@ -211,6 +222,7 @@ _Pending_ -->
       <li>New tasks for the following day</li>
       <li>Things to discuss/ask at next day big scrum meeting</li>
       <li>Problems were additional resources are needed.</li>
+      <li>Update Jira Board</li>
     </ul>
 </details>
 

@@ -1,1 +1,0 @@
-// Has discipline to manage self-care through diet, exercise, relaxation, and fulfilling activities while keeping one's self and others from harm.
