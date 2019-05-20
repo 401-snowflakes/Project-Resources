@@ -56,10 +56,10 @@ _Pending_
 
  ---
 
-<h2 style="padding:5px;border-style:solid;border-width:1px;" >Daily Schedule</h2>
+<h2 style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >Daily Schedule</h2>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;" >8:45 -9:15 - Check in meeting</summary>
+  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >8:45 -9:15 - Check in meeting</summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>PM</li>
@@ -76,7 +76,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;" >9:15 - Big Scrum Meeting - Approximately 30 min</summary>
+  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >9:15 - Big Scrum Meeting - Approximately 30 min</summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>Clients</li>
@@ -95,7 +95,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;" >9:45 - Team Discussion (5-10 minutes)</summary>
+  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >9:45 - Team Discussion (5-10 minutes)</summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>Integrations Team Representative</li>
@@ -108,7 +108,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;" >11:00 - 12:00 - Team Scrum Meetings (15 minutes per team)</summary>
+  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >11:00 - 12:00 - Team Scrum Meetings (15 minutes per team)</summary>
   <p><b>Attendees</b></p>
   <ul>
     <li>Clients</li>
@@ -120,7 +120,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;" >16:00-17:00 - Team Scrum Meetings (15 minutes per team)</summary>
+  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >16:00-17:00 - Team Scrum Meetings (15 minutes per team)</summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>Clients</li>
@@ -138,7 +138,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;" >17:00 - Integrations Team Daily Retrospective Meeting</summary>
+  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >17:00 - Integrations Team Daily Retrospective Meeting</summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>PM</li>
@@ -163,7 +163,7 @@ _Pending_
 #### 
 
 <details>
-  <summary>Integrations Team</summary><br>
+  <summary><b>Integrations Team</b></summary><br>
   <span><b>&nbsp; &nbsp; Team Leader: </b></span><span>Erin Trainor</span><br><br>
   <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
   <a href="https://docs.google.com/document/d/1RY_Ob5EYsAonB_acwMkEw99AdHmZTKBx20fd3x4WGxQ/edit?usp=sharing">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
@@ -171,7 +171,7 @@ _Pending_
 </details>
 
 <details>
-  <summary>UI/UX - Javascript</summary><br>
+  <summary><b>UI/UX - Javascript</b></summary><br>
   <span><b>&nbsp; &nbsp; Integrations Team Point of Contact: </b></span><span>Chris Merritt</span><br>
   <span><b>&nbsp; &nbsp; Team Leader: </b></span><span>Vanessa Wei</span><br><br>
   <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
@@ -180,7 +180,7 @@ _Pending_
 </details>
 
 <details>
-  <summary>Backend Interface - Javascript</summary><br>
+  <summary><b>Backend Interface - Javascript</b></summary><br>
   <span><b>&nbsp; &nbsp; Integrations Team Point of Contact: </b></span><span>Greg Dukes</span><br>
   <span><b>&nbsp; &nbsp; Team Leader: </b></span><span>Spencer Hirata</span><br><br>
   <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
@@ -189,7 +189,7 @@ _Pending_
 </details>
 
 <details>
-  <summary>Data - C#</summary><br>
+  <summary><b>Data - C#</b></summary><br>
   <span><b>&nbsp; &nbsp; Integrations Team Point of Contact</b></span><span>Andrew Curtis</span><br>
   <span><b>&nbsp; &nbsp; Team Leader</b></span><span>Dan Logerstedt</span><br><br>
   <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
@@ -200,7 +200,7 @@ _Pending_
 
 
 <details>
-  <summary>Auth - C#</summary><br>
+  <summary><b>Auth - C#</b></summary><br>
   <span><b>&nbsp; &nbsp; Integrations Team Point of Contact</b></span><span>Jason Burns</span><br>
   <span><b>&nbsp; &nbsp; Team Leader</b></span><span>Tanner Percival</span><br>
   <p>&nbsp; &nbsp; &#5852; Team Biographies - Link Pending</p></br>
@@ -209,13 +209,13 @@ _Pending_
 </details>
 
 <details>
-  <summary>Languages Used</summary>
+  <summary><b>Languages Used</b></summary>
   <p>&nbsp; &nbsp; JavaScript</p>
   <p>&nbsp; &nbsp; C#</p>
 </details>
 
 <details>
-  <summary>Tools Used</summary>
+  <summary><b>Tools Used</b></summary>
   <p>&nbsp; &nbsp; GraphQL</p>
   <p>&nbsp; &nbsp; Gatsby JS</p>
   <p>&nbsp; &nbsp; D3</p>
