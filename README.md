@@ -8,7 +8,7 @@ This is a joint final project between the 401 Javascript and 401 ASP.Net classes
 <img src="./styles/logos/round1.jpg" />
 </p>
 <p align="center">
-Final logo approval pending
+Logo: first design iteration
 </p>
 
 ---
@@ -282,7 +282,8 @@ _Pending_
 
 <details>
   <summary><b>Auth0 Resources</b></summary>
-  <a href="https://auth0.com/blog/securing-gatsby-with-auth0/">&#5852; Securing Gatsby with Auth0</a></br>
+  <a href="https://developer.github.com/v3/#authentication">&#5852; GitHub REST API v3 Auth</a></br>
+  <a href="https://auth0.com/blog/securing-gatsby-with-auth0/">&#5852; Securing Gatsby with Auth0 (needs review)</a></br>
 </details>
 
 <details>
