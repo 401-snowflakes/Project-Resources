@@ -56,10 +56,10 @@ _Pending_
 
  ---
 
-<h2 style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >Daily Schedule</h2>
+<h2><b>Daily Schedule</b></h2>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >8:45 -9:15 - Check in meeting</summary>
+  <summary><b>8:45 -9:15 - Check in meeting</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>PM</li>
@@ -76,7 +76,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >9:15 - Big Scrum Meeting - Approximately 30 min</summary>
+  <summary><b>9:15 - Big Scrum Meeting - Approximately 30 min</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>Clients</li>
@@ -95,7 +95,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >9:45 - Team Discussion (5-10 minutes)</summary>
+  <summary><b>9:45 - Team Discussion (5-10 minutes)</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>Integrations Team Representative</li>
@@ -108,7 +108,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >11:00 - 12:00 - Team Scrum Meetings (15 minutes per team)</summary>
+  <summary><b>11:00 - 12:00 - Team Scrum Meetings (15 minutes per team)</b></summary>
   <p><b>Attendees</b></p>
   <ul>
     <li>Clients</li>
@@ -120,7 +120,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >16:00-17:00 - Team Scrum Meetings (15 minutes per team)</summary>
+  <summary><b>16:00-17:00 - Team Scrum Meetings (15 minutes per team)</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>Clients</li>
@@ -138,7 +138,7 @@ _Pending_
 </details>
 
 <details>
-  <summary style="padding:5px;border-style:solid;border-width:1px;border-color:black;" >17:00 - Integrations Team Daily Retrospective Meeting</summary>
+  <summary><b>17:00 - Integrations Team Daily Retrospective Meeting</b></summary>
   <p><b>Attendees</b></p>
     <ul>
       <li>PM</li>
