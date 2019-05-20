@@ -128,6 +128,13 @@ _Pending_ -->
     <li>Integrations Team Representative</li>
     <li>Team Members</li>
   </ul>
+  <p><b>Agenda</b></p>
+  <ul>
+    <li>Present any work since last meeting</li>
+    <li>Tasks for the day</li>
+    <li>Any known or anticipated problems?</li>
+    <li>Communicate any needed coordination with other teams</li>
+  </ul>
 </details>
 <details>
   <summary><b>10:00 - 10:30 - Check in meeting</b></summary>
