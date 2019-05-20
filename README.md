@@ -42,17 +42,78 @@ _Conversation 5/16/19_: All of the sub competancies and main competancies will h
 
 ---
 
-#### Project Description
-_Pending_
+<!-- #### Project Description
+_Pending_ -->
 
 #### Jira Project Board
-_Pending_
+[Project Sprint Board](https://401curve.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=CUR)
 
 #### Roles and Responsibiities
-_Pending_
+<details>
+  <summary><b>Senior Project Managers</b></summary>
+  <p><b>Responsibilities</b></p>
+    <ul>
+      <li>Assist with problem solving as requested</li>
+      <li>Participate in scrum meetings</li>
+      <li>Review pull requests from deployment to master branches in GitHub</li>
+      <li>Merge pull requests from deployment to master branches in GitHub</li>
+    </ul>
+</details>
+<details>
+  <summary><b>Project Manager</b></summary>
+  <p><b>Responsibilities</b></p>
+    <ul>
+      <li>Coordinate daily project timelines</li>
+      <li>Participate in all scrum meetings</li>
+      <li>Lead team meetings</li>
+      <li>Manage Jira project board</li>
+      <li>Prepare meeting agendas from integration team feedback</li>
+      <li>Assist with other tasks as requested</li>
+    </ul>
+</details>
+<details>
+  <summary><b>Integrations Team Members</b></summary>
+  <p><b>Responsibilities</b></p>
+    <ul>
+      <li>Facilitate communications between teams</li>
+      <li>Participate in scrum of scrum meeting, team specific meetings and end of day planning meeting</li>
+      <li>Assist with planning sprints and management of Jira board</li>
+      <li>Review and merge pull requests from designated project team from staging branch to deployment</li>
+      <li>Ensure that all documentation and testing for assigned team is complete and high quality</li>
+      <li>Assist with other tasks as requested</li>
+    </ul>
+</details>
+<details>
+  <summary><b>Team Leaders</b></summary>
+  <p><b>Responsibilities</b></p>
+    <ul>
+      <li>Facilitate communications between designated team and integrations team point of contact</li>
+      <li>Participate in scrum of scrum meeting and team specific meetings</li>
+      <li>Create and delegate tasks from Jira board to team members</li>
+    </ul>
+</details>
+<details>
+  <summary><b>Team Member</b></summary>
+  <p><b>Responsibilities</b></p>
+    <ul>
+      <li>Complete delegated tasks as assigned</li>
+      <li>Participate in team specific meetings</li>
+      <li>Add comments to completed tasks before the end of the day</li>
+      <li>Communicate where additional features/tasks may be needed</li>
+    </ul>
+</details>
 
 #### GitHub Flow
-_Pending_
+**All work will be done on feature specific branches that are branched off of the staging branch**
+* **Team leaders (unless they designate another team member) will be responsible for:** 
+  * Reviewing pull requests from the feature branch to staging branch
+  * Merging pull requests from the feature branch to staging branch
+* **Integration team members will be responsible for:** 
+  * Reviewing pull requests from staging to depoloyment
+  * Merging pull requests from staging to deployment
+* **Senior project managers will be responsible for:**
+  * Reviewing pull requests from development to master
+  * Merging pull requests from development to master
 
  ---
 
@@ -190,8 +251,8 @@ _Pending_
 
 <details>
   <summary><b>Data - C#</b></summary><br>
-  <span><b>&nbsp; &nbsp; Integrations Team Point of Contact</b></span><span>Andrew Curtis</span><br>
-  <span><b>&nbsp; &nbsp; Team Leader</b></span><span>Dan Logerstedt</span><br><br>
+  <span><b>&nbsp; &nbsp; Integrations Team Point of Contact: </b></span><span>Andrew Curtis</span><br>
+  <span><b>&nbsp; &nbsp; Team Leader: </b></span><span>Dan Logerstedt</span><br><br>
   <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
   <a href="https://docs.google.com/document/d/14jUwk_TpGIYohoteQID2KzxtCYH_F5fuV8_K4IrYTjw/edit?usp=sharing">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
   <a href="https://docs.google.com/document/d/1AEAnTw2npca0iKJMauaP610BuPSltbU-WWCmumHbyzI/edit?usp=sharing">&nbsp; &nbsp; &#5852; User Stories</a></br>
@@ -201,8 +262,8 @@ _Pending_
 
 <details>
   <summary><b>Auth - C#</b></summary><br>
-  <span><b>&nbsp; &nbsp; Integrations Team Point of Contact</b></span><span>Jason Burns</span><br>
-  <span><b>&nbsp; &nbsp; Team Leader</b></span><span>Tanner Percival</span><br>
+  <span><b>&nbsp; &nbsp; Integrations Team Point of Contact: </b></span><span>Jason Burns</span><br>
+  <span><b>&nbsp; &nbsp; Team Leader: </b></span><span>Tanner Percival</span><br>
   <p>&nbsp; &nbsp; &#5852; Team Biographies - Link Pending</p></br>
   <a href="https://docs.google.com/document/d/1Fg3xK7r6AbVOKgL1zoLrj0qWStzJTY22sHFbpZYmt40/edit?usp=sharing">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
   <a href="https://docs.google.com/document/d/16IYEQbwUyXER-93ScNRK_hSLknBF_-xpLE8MxxJ7HzU/edit">&nbsp; &nbsp; &#5852; User Stories</a></br><br>
