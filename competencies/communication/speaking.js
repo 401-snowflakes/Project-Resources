@@ -1,1 +1,0 @@
-// Articulates effectively and confidently. Expresses in a clear and outlined manner how ideas fits into wider scenarios.
