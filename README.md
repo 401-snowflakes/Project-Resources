@@ -1,10 +1,7 @@
-***
 <br>
 
 ![alt text](https://github.com/CodeFellows-Curve/project-resources/blob/master/assets/logoSnip.JPG)
 # Curve: Project Resources
-
-***
 
 This is a joint final project between the 401 Javascript and 401 ASP.Net classes at Code Fellows in Seattle, WA. The project will be completed in only 4 days between May 20 - May 24 2019.
 
