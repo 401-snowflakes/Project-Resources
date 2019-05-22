@@ -2,9 +2,10 @@
 <br>
 
 ![alt text](https://github.com/CodeFellows-Curve/project-resources/blob/master/assets/logoSnip.JPG)
-<span style="font-size:40px;;">Curve: </span><span style="font-size:40px;;">subtitle</span>
+# Curve: Repository Name
 
 ***
+
 ## REPOSITORY DESCRIPTION
 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 

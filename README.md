@@ -2,7 +2,7 @@
 <br>
 
 ![alt text](https://github.com/CodeFellows-Curve/project-resources/blob/master/assets/logoSnip.JPG)
-<span style="font-size:40px;;">Curve: </span><span style="font-size:40px;;">Project Resources</span>
+# Curve: Project Resources
 
 ***
 
