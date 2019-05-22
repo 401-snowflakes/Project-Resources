@@ -1,9 +1,8 @@
 ***
 <br>
-<header>
-<img src="./assets/CURVE-jasonb315.png" style="width:100px;"/>
+
+![alt text](https://github.com/CodeFellows-Curve/project-resources/blob/master/assets/logoSnip.JPG)
 <span style="font-size:40px;;">Curve: </span><span style="font-size:40px;;">subtitle</span>
-</header>
 
 ***
 ## REPOSITORY DESCRIPTION
@@ -23,3 +22,5 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
       <li></li>
     </ul>
 </details> -->
+<!-- 
+https://github.com/CodeFellows-Curve/project-resources/blob/master/assets/logoSnip.JPG -->

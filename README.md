@@ -1,14 +1,8 @@
 ***
 <br>
-<header>
-<img src="./assets/logosnip.JPG" style="width:100px;"/>
-<span style="font-size:40px;">
-Curve:
-</span>
-<span style="font-size:40px;">
-Project Resources
-</span>
-</header>
+
+![alt text](https://github.com/CodeFellows-Curve/project-resources/blob/master/assets/logoSnip.JPG)
+<span style="font-size:40px;;">Curve: </span><span style="font-size:40px;;">Project Resources</span>
 
 ***
 
