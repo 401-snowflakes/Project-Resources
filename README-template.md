@@ -29,7 +29,6 @@ xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht 
 
 footnotes
 
-***
 
 <!-- Lengthy lists of things? Use: -->
 <!--
