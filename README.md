@@ -1,17 +1,13 @@
-# 401 Snowflakes Final Project
+***
+<br>
+<header>
+<img src="./assets/CURVE-jasonb315.png" style="width:100px;"/>
+<span style="font-size:40px;;">Curve: </span><span style="font-size:40px;;">subtitle</span>
+</header>
+
+***
+
 This is a joint final project between the 401 Javascript and 401 ASP.Net classes at Code Fellows in Seattle, WA. The project will be completed in only 4 days between May 20 - May 24 2019.
-
----
-## Project Name: Curve
----
-<p align="center">
-<img src="./styles/logos/round1.jpg" />
-</p>
-<p align="center">
-Logo: first design iteration
-</p>
-
----
 
 #### Goal
 Recreate the Medium **_Snowflake_** app for Code Fellows employee and student core competancy evaluations. Adapt the core competancies used in the careers curriculum as metrics. The front end should use React, and Gatsby JS while the backend should serve the required data to the front end using GraphQL while providing for a variety of different roles and permissions.
