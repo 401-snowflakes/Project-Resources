@@ -6,8 +6,15 @@
 </header>
 
 ***
+## REPOSITORY DESCRIPTION
 
-<details>
+the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
+
+
+### SUB HEADERS
+<!-- Lengthy lists of things? Use: -->
+
+<!-- <details>
   <summary><b>List Title</b></summary>
     <ul>
       <li></li>
@@ -15,4 +22,4 @@
       <li></li>
       <li></li>
     </ul>
-</details>
+</details> -->
