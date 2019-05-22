@@ -40,6 +40,9 @@ The application will heavily reference the Medium's Snowflake [Original Source C
 #### Notes from Client (Brooke)
 _Conversation 5/16/19_: All of the sub competancies and main competancies will have a maximum score of 4. The snowflake should graphically show ALL of the main competancies and subcompetancies. Each primary compentancy will have a different color (or shade). Use the [Engineering Competancy Matrix Scoring Guide](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0) as a guide for the requirements to move to the next level in score.
 
+#### Documentation based on Client Requirements
+[Client Desired Functionality](./assets/client_functionality_guidance.pdf)
+
 ---
 
 <!-- #### Project Description
@@ -366,8 +369,7 @@ _Pending_ -->
   <a href="https://developer.github.com/v3/#authentication">&#5852; GitHub REST API v3 Auth</a></br>
   <a href="https://auth0.com/blog/securing-gatsby-with-auth0/">&#5852; Securing Gatsby with Auth0 (needs review)</a></br>
 </details>
-
-<details>
+<!-- <details>
   <summary><b>Design Resources</b></summary>
   <p>&#5852; Code Fellows Style Guide - Link Pending</p></br>
-</details>
+</details> -->
