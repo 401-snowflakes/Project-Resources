@@ -1,7 +1,7 @@
 ***
 <br>
 <header>
-<img src="./assets/logosnip.jpg" style="width:100px;"/>
+<img src="./assets/logosnip.JPG" style="width:100px;"/>
 <span style="font-size:40px;">
 Curve:
 </span>
