@@ -5,7 +5,15 @@
 
 ## DESCRIPTION
 
-Include members.
+<details>
+  <summary><b>Team Members</b></summary>
+    <ul>
+      <li>Person One</li>
+      <li>Person Two</li>
+      <li>Person Three</li>
+      <li>Person Four</li>
+    </ul>
+</details>
 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
