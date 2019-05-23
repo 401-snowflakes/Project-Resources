@@ -51,7 +51,7 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
 ## Frameworks and Tools Used
 
-#### And Rational for that choice
+#### And Rationale for that choice
 
 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
@@ -90,7 +90,7 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
 
-## Recomendations for future development
+## Recommendations for future development
 
 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
