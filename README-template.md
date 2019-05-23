@@ -105,7 +105,8 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 ## Docs Referenced (links)
 
 
-the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
+* [Here's a link](http://someurl.link)
+* [And another link](http://someurl.link)
 
 
 
