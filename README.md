@@ -1,17 +1,9 @@
-# 401 Snowflakes Final Project
+<br>
+
+![alt text](https://github.com/CodeFellows-Curve/project-resources/blob/master/assets/logoSnip.JPG)
+# Curve: Project Resources
+
 This is a joint final project between the 401 Javascript and 401 ASP.Net classes at Code Fellows in Seattle, WA. The project will be completed in only 4 days between May 20 - May 24 2019.
-
----
-## Project Name: Curve
----
-<p align="center">
-<img src="./styles/logos/round1.jpg" />
-</p>
-<p align="center">
-Logo: first design iteration
-</p>
-
----
 
 #### Goal
 Recreate the Medium **_Snowflake_** app for Code Fellows employee and student core competency evaluations. Adapt the core competencies used in the careers curriculum as metrics. The front end should use React, and Gatsby JS while the backend should serve the required data to the front end using GraphQL while providing for a variety of different roles and permissions.
@@ -275,8 +267,7 @@ _Pending_ -->
   <span>&nbsp; &nbsp; &#5852; Team Biographies  - Link Pending</span></br><br>
   <a href="https://docs.google.com/document/d/14jUwk_TpGIYohoteQID2KzxtCYH_F5fuV8_K4IrYTjw/edit?usp=sharing">&nbsp; &nbsp; &#5852; Group Agreement</a></br>
   <a href="https://docs.google.com/document/d/1AEAnTw2npca0iKJMauaP610BuPSltbU-WWCmumHbyzI/edit?usp=sharing">&nbsp; &nbsp; &#5852; User Stories</a></br>
-  <a href="https://docs.google.com/document/d/1ALGz_n_w2ro7ABXJRM1wrGTiiZpAuS7h_CFbI77kDxw/edit?usp=sharing">&nbsp; &nbsp; &#5852; Database Schemas</a></br>
-  <a href="https://github.com/CodeFellows-Curve/project-resources/blob/master/assets/Curve_DB_Schema.png">&nbsp; &nbsp; &#5852; Database ERD Diagram</a></br><br>
+  <a href="https://docs.google.com/document/d/1ALGz_n_w2ro7ABXJRM1wrGTiiZpAuS7h_CFbI77kDxw/edit?usp=sharing">&nbsp; &nbsp; &#5852; Database Schemas</a></br><br>
 </details>
 
 
