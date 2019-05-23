@@ -14,7 +14,7 @@ Logo: first design iteration
 ---
 
 #### Goal
-Recreate the Medium **_Snowflake_** app for Code Fellows employee and student core competancy evaluations. Adapt the core competancies used in the careers curriculum as metrics. The front end should use React, and Gatsby JS while the backend should serve the required data to the front end using GraphQL while providing for a variety of different roles and permissions.
+Recreate the Medium **_Snowflake_** app for Code Fellows employee and student core competency evaluations. Adapt the core competencies used in the careers curriculum as metrics. The front end should use React, and Gatsby JS while the backend should serve the required data to the front end using GraphQL while providing for a variety of different roles and permissions.
 The application will heavily reference the Medium's Snowflake [Original Source Code](https://github.com/CodeFellows-Curve/snowflake).
 
 <!-- --- -->
@@ -38,7 +38,7 @@ The application will heavily reference the Medium's Snowflake [Original Source C
 ---
 
 #### Notes from Client (Brooke)
-_Conversation 5/16/19_: All of the sub competancies and main competancies will have a maximum score of 4. The snowflake should graphically show ALL of the main competancies and subcompetancies. Each primary compentancy will have a different color (or shade). Use the [Engineering Competancy Matrix Scoring Guide](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0) as a guide for the requirements to move to the next level in score.
+_Conversation 5/16/19_: All of the sub competencies and main competencies will have a maximum score of 4. The snowflake should graphically show ALL of the main competencies and subcompetencies. Each primary compentancy will have a different color (or shade). Use the [Engineering competency Matrix Scoring Guide](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0) as a guide for the requirements to move to the next level in score.
 
 ---
 
@@ -326,8 +326,8 @@ _Pending_ -->
   
   <a href="https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Staff%20Engineer">&#5852; Deployed Site To Be Emulated</a></br>
   <a href="https://github.com/Medium/snowflake">&#5852; Source Code of Deployed Site</a></br>
-  <a href="https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies">&#5852; Code Fellows Core Competancies to Be Included in Modified Application</a></br>
-  <a href="https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0">&#5852; Engineering Competancy Matrix Scoring Guide</a></br>
+  <a href="https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies">&#5852; Code Fellows Core competencies to Be Included in Modified Application</a></br>
+  <a href="https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0">&#5852; Engineering competency Matrix Scoring Guide</a></br>
   <a href="https://docs.google.com/spreadsheets/d/1CzgWm-3V0Jk-84M-uYPgu6QCUdVDnjP8DKf4bb2aTeM/edit?usp=sharing">&#5852; Project Team Google Doc</a></br>
 
 </details>
