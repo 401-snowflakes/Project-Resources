@@ -6,7 +6,7 @@
 ## DESCRIPTION
 
 <details>
-  <summary><b>Team Members</b></summary>
+  <summary><b>Contributers</b></summary>
     <ul>
       <li>Person One</li>
       <li>Person Two</li>
@@ -23,11 +23,6 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht xof nworb kciuq eht 
 
 ***
-
-## Team Purpose
-
-
-the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
 
 ## Repo Purpose
@@ -64,8 +59,7 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
 ## UML
 
-
-the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
+![a-neat-pic](http://someurl.link)
 
 
 ## Process flow
