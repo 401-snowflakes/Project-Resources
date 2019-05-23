@@ -34,7 +34,7 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
 
-## Deployments (links)
+## Deployment Link
 
 
 * [Here's a link](http://someurl.link)
@@ -46,7 +46,9 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
 
-## Tools Used (frameworks) And Rational
+## Frameworks and Tools Used
+
+#### And Rational for that choice
 
 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
@@ -70,13 +72,17 @@ the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
 
-## Known bugs (existing limitations, etc)
+## Known bugs 
+
+#### Existing limitations, etc
 
 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
 
 
-## Tasks remaining (TODOs)
+## Tasks remaining 
+
+#### TODOs
 
 
 the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox the quick brown fox 
