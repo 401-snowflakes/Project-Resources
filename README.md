@@ -319,7 +319,7 @@ _Pending_ -->
   <a href="https://github.com/Medium/snowflake">&#5852; Source Code of Deployed Site</a></br>
   <a href="https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies">&#5852; Code Fellows Core competencies to Be Included in Modified Application</a></br>
   <a href="https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0">&#5852; Engineering competency Matrix Scoring Guide</a></br>
-  <a href="https://docs.google.com/spreadsheets/d/1CzgWm-3V0Jk-84M-uYPgu6QCUdVDnjP8DKf4bb2aTeM/edit?usp=sharing">&#5852; Project Team Google Doc</a></br>
+  </br>
 
 </details>
 
